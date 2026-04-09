@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @XaviRB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: xaviertheprofessor58@gmail.com
-
-<!---
-XaviRB/XaviRB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m XAvier
+Software QA Engineer | Python · SQL · AWS · GCP · Docker · Snowflake | Automation, Cloud & AI enthusiast | CS/Math @ WWU
